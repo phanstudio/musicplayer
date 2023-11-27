@@ -1,0 +1,18 @@
+imgs\peter (1).png
+C:\Users\ajuga\Music\Alan-Walker\Lay - Sheep (Alan Walker Relift).mp3
+C:\Users\ajuga\OneDrive\Documents\Jupiter-python-try\learn\networking\musicplayer\Tubeplayer_0_1\playlist\All Alec Benjamin Songs Playlist\Alec Benjamin - Steve [Official Lyric Video].mp3
+C:\Users\ajuga\Music\Alan-Walker\DJ Walkzz - War Of Melodies.mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - Relax.mp3
+C:\Users\ajuga\Music\Alan-Walker\K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri).mp3
+C:\Users\ajuga\Music\Itro & Tobu - Cloud 9 [NCS Release].mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker ft. Gavin James - Tired.mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - I Don't Wanna Go (Lyrics) ft. Julie Bergen.mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - Faded.mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - The Spectre.mp3
+C:\Users\ajuga\OneDrive\Documents\Jupiter-python-try\learn\networking\musicplayer\venv\Lib\site-packages\pygame\examples\data\secosmic_lo.wav
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - Big Universe.mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - Burn.mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - Dennis 2014 [K-391 Style].mp3
+C:\Users\ajuga\Music\High Maintenance - Change Your Ways (feat. Charlotte Haining) [NCS Release].mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3
+C:\Users\ajuga\Music\Alan-Walker\Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Lyric Video).mp3

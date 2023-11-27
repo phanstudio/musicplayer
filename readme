@@ -1,0 +1,23 @@
+To do
+. fix search concurrency ✅
+.. adding a loading bar ✅
+. more for playlist ✅
+. add download code ✅
+. add search function # online and offline together ✅
+. download ✅
+. butt disable bug ✅
+. add to queue ✅
+. extra func for get playlist like sampling or refreshing
+. search play issue ✅
+. delete playlist items ✅
+. add playlist items ✅
+. delete playlist ✅
+. album
+. opt hint
+. searched oniline click nothing ✅
+. search for list ✅
+. maximize play
+. add checker to know if it s downloaded
+. kill threads
+
+add ffmpeg-master-latest-win64-gpl to dependeces if not an error wll occur
