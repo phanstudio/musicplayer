@@ -1,6 +1,6 @@
-To do
+## To do
 . fix search concurrency ✅
-.. adding a loading bar ✅
+. adding a loading bar ✅
 . more for playlist ✅
 . add download code ✅
 . add search function # online and offline together ✅
@@ -21,3 +21,4 @@ To do
 . kill threads
 
 add ffmpeg-master-latest-win64-gpl to dependeces if not an error wll occur
+
